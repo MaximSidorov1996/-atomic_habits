@@ -65,7 +65,7 @@ CSRF_TRUSTED_ORIGINS = [
   git clone https://github.com/MaximSidorov1996/-atomic_habits.git
   ```
   ```
-  cd AtomicHabits/
+  cd -atomic_habits/
   ```
 - Создать файл ``.env``, который необходимо заполнить данными из файла ``env.sample``
 - Установить зависимости из ``requirements.txt``
