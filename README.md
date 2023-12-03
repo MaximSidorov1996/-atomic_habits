@@ -62,7 +62,7 @@ CSRF_TRUSTED_ORIGINS = [
   
   В терминале необходимо ввести команды:
   ```
-  git clone https://github.com/sudarev91/AtomicHabits
+  git clone https://github.com/MaximSidorov1996/-atomic_habits.git
   ```
   ```
   cd AtomicHabits/
@@ -80,5 +80,3 @@ CSRF_TRUSTED_ORIGINS = [
 ## Контакты
 
 Если у Вас возникли вопросы или пожелания по развитию проекта, пожалуйста, свяжитесь со мной.
-
-tg: opensda91
