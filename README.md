@@ -63,10 +63,10 @@ CSRF_TRUSTED_ORIGINS = [
   
   В терминале ввести команды
   ```
-  git clone https://github.com/sudarev91/AtomicHabits
+  git clone https://github.com/MaximSidorov1996/atomic_habits
   ```
   ```
-  cd AtomicHabits/
+  cd atomic_habits/
   ```
 - Создать файл ``.env``, который необходимо заполнить данными из файла ``env.sample``
 - Запустить проект
@@ -76,9 +76,3 @@ CSRF_TRUSTED_ORIGINS = [
   docker-compose up --build
   ```
 - Откройте браузер и перейдите по адресу http://localhost:8000 для доступа к приложению.
-
-## Контакты
-
-Если у Вас возникли вопросы или пожелания по развитию проекта, пожалуйста, свяжитесь со мной.
-
-tg: opensda91
